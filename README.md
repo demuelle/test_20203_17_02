@@ -1,5 +1,5 @@
 # Save the seals
-  ![GitHub license](https://img.shields.io/badge/license-BSD 3-blue.svg)
+  ![GitHub license](https://img.shields.io/badge/license-BSD_3-blue.svg)
 
   ## Description
 
